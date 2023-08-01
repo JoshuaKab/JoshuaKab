@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaKab
 - 👀 I’m interested in Data analyst / Data science
-- 🌱 I’m currently learning AL and ML
+- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on with anyone interest in Data science 
 - 📫 Please feel free to reach out with email: info.joshua6@gmail.com
 
