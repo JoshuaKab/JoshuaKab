@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![iowa liquor sales dashboard](https://github.com/JoshuaKab/JoshuaKab/assets/135429439/e62c55b8-ca60-4d32-a876-e8262dcb1824)
+
 <!--
 **JoshuaKab/JoshuaKab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
