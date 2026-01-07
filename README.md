@@ -1,6 +1,6 @@
 Welcome to my page😎, my name is Joshua Kabwanga
 
-![image](https://github.com/JoshuaKab/JoshuaKab/assets/135429439/064b7151-2ce0-4455-90ad-20f9a52ac496)
+![Profile_images](https://github.com/user-attachments/assets/b99469c0-a565-4856-b0b8-03ce7ce4134e)
 
 As a data engineer with a strong foundation in data science, machine learning, and analytics, I specialize in transforming raw data into actionable insights that drive innovation and strategic decision-making. Backed by a professional certificate in Machine learning, And Google data analytics, I bring a blend of technical proficiency and analytical rigor to every project.
 
