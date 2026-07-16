@@ -24,8 +24,8 @@ At Energy Innovation Capital, I contributed to market analysis and competitive l
 - Cloud Computing (Azure / AWS)
   
 # 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/joshua-kabwanga
-Portfolio: https://your-portfolio.com
-Email: info.joshua6@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-kabwanga)
+- Portfolio: [My portfolio.com](https://portfolio-app-mu-topaz.vercel.app/)
+- Email: info.joshua6@gmail.com
 
 "Turning data into meaningful insights that drive smarter decisions."
