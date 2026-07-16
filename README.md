@@ -12,7 +12,21 @@ At Energy Innovation Capital, I contributed to market analysis and competitive l
 # 👨‍💻 About Me
 - 📊 Data Science and Analytics
 - 🤖 Machine Learning & Predictive Modeling
+- 🤖 Deep Learning
 - 🐍 Python | SQL | R
 - 📈 Data Visualization with Power BI, Tableau & Matplotlib
 - 🧹 Data Cleaning & Feature Engineering
 - ☁️ Learning Cloud Technologies and MLOps
+
+# 🌱 Currently Learning
+- MLOps
+- Cloud Computing (Azure / AWS)
+- Natural Language Processing (NLP)
+- Cloud Computing (Azure / AWS)
+  
+# 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/your-profile
+Portfolio: https://your-portfolio.com
+Email: info.joshua6@gmail.com
+
+"Turning data into meaningful insights that drive smarter decisions."
