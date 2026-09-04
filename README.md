@@ -25,7 +25,7 @@ At Energy Innovation Capital, I contributed to market analysis and competitive l
   
 # 📫 Connect With Me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-kabwanga)
-- Portfolio: [My portfolio.com](https://portfolio-app-mu-topaz.vercel.app/)
+- Portfolio: [My portfolio.com](https://portfolio-app-pt20.onrender.com/#projects)
 - Email: info.joshua6@gmail.com
 
 "Turning data into meaningful insights that drive smarter decisions."
